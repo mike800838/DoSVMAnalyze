@@ -1,0 +1,6 @@
+G:\SignatureVerification\Tools\DoSVMAnalyze\DoSVMAnalyze\bin\Debug\DoSVMAnalyze.exe.config
+G:\SignatureVerification\Tools\DoSVMAnalyze\DoSVMAnalyze\bin\Debug\DoSVMAnalyze.exe
+G:\SignatureVerification\Tools\DoSVMAnalyze\DoSVMAnalyze\bin\Debug\DoSVMAnalyze.pdb
+G:\SignatureVerification\Tools\DoSVMAnalyze\DoSVMAnalyze\bin\Debug\LibSVMsharp.dll
+G:\SignatureVerification\Tools\DoSVMAnalyze\DoSVMAnalyze\obj\Debug\DoSVMAnalyze.exe
+G:\SignatureVerification\Tools\DoSVMAnalyze\DoSVMAnalyze\obj\Debug\DoSVMAnalyze.pdb

@@ -1,0 +1,14 @@
+G:\SignatureVerification\Tools\DoSVMAnalyze\DoSVMAnalyze\bin\x86\Release\DoSVMAnalyze.exe.config
+G:\SignatureVerification\Tools\DoSVMAnalyze\DoSVMAnalyze\bin\x86\Release\DoSVMAnalyze.exe
+G:\SignatureVerification\Tools\DoSVMAnalyze\DoSVMAnalyze\bin\x86\Release\DoSVMAnalyze.pdb
+G:\SignatureVerification\Tools\DoSVMAnalyze\DoSVMAnalyze\bin\x86\Release\LibSVMsharp.dll
+G:\SignatureVerification\Tools\DoSVMAnalyze\DoSVMAnalyze\obj\x86\Release\DoSVMAnalyze.csprojResolveAssemblyReference.cache
+G:\SignatureVerification\Tools\DoSVMAnalyze\DoSVMAnalyze\obj\x86\Release\DoSVMAnalyze.exe
+G:\SignatureVerification\Tools\DoSVMAnalyze\DoSVMAnalyze\obj\x86\Release\DoSVMAnalyze.pdb
+D:\Gi\SignatureVerification\Tools\DoSVMAnalyze\DoSVMAnalyze\bin\x86\Release\DoSVMAnalyze.exe.config
+D:\Gi\SignatureVerification\Tools\DoSVMAnalyze\DoSVMAnalyze\obj\x86\Release\DoSVMAnalyze.exe
+D:\Gi\SignatureVerification\Tools\DoSVMAnalyze\DoSVMAnalyze\obj\x86\Release\DoSVMAnalyze.pdb
+D:\Gi\SignatureVerification\Tools\DoSVMAnalyze\DoSVMAnalyze\bin\x86\Release\DoSVMAnalyze.exe
+D:\Gi\SignatureVerification\Tools\DoSVMAnalyze\DoSVMAnalyze\bin\x86\Release\DoSVMAnalyze.pdb
+D:\Gi\SignatureVerification\Tools\DoSVMAnalyze\DoSVMAnalyze\bin\x86\Release\LibSVMsharp.dll
+D:\Gi\SignatureVerification\Tools\DoSVMAnalyze\DoSVMAnalyze\obj\x86\Release\DoSVMAnalyze.csprojResolveAssemblyReference.cache
